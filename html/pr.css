@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    }
+#titulo{
+    padding-left: 20%;
+    background-color: aqua;
+    border: 0.5px solid black;
+}

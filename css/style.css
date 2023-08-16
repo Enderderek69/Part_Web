@@ -1,0 +1,55 @@
+body{
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    }
+#titulo{
+    padding-left: 35%;
+    background-color: aqua;
+    border: 0.5px solid black;
+}
+
+img{
+    padding-left: 35% ;
+    padding-top: 2%;
+}
+#header{
+    margin: auto;
+    width: 500px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+    background-color: aqua;
+    margin: 2%;
+}
+
+ul,ol{
+    list-style: none;
+    
+}
+ul li{
+    display: inline-block;
+    pad: 0px 20px;
+    
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color: darkred;
+}
+
+iframe{
+    padding-left: 35% ;
+    padding-top: 2%;
+}
